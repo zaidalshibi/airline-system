@@ -1,0 +1,24 @@
+{
+  "name": "airline-system",
+  "version": "1.0.0",
+  "description": "![AirLine UML](./AirlineSystem.png)",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidalshibi/airline-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaidalshibi/airline-system/issues"
+  },
+  "homepage": "https://github.com/zaidalshibi/airline-system#readme",
+  "dependencies": {
+    "@ngneat/falso": "^6.1.0",
+    "uuid": "^9.0.0"
+  }
+}

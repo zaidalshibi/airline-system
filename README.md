@@ -1,2 +1,5 @@
-# airline-system
-airline-system repo for class 19
+# Airline-System
+
+## to start the system type node manager.js
+
+![AirLine UML](./AirlineSystem.png)
