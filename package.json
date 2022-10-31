@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/zaidalshibi/airline-system/issues"
   },
-  "homepage": "https://github.com/zaidalshibi/airline-system#readme"
+  "homepage": "https://github.com/zaidalshibi/airline-system#readme",
+  "dependencies": {
+    "@ngneat/falso": "^6.1.0",
+    "uuid": "^9.0.0"
+  }
 }
