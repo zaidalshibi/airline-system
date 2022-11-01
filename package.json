@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zaidalshibi/airline-system#readme",
   "dependencies": {
     "@ngneat/falso": "^6.1.0",
+    "socket.io": "^4.5.3",
     "uuid": "^9.0.0"
   }
 }
